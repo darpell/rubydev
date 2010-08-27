@@ -21,7 +21,7 @@ development:
   database: faktis_development
   pool: 5
   username: root
-  password: p@ssw0rd
+  password: p@ssw0r
   host: localhost
 
 # Warning: The database defined as "test" will be erased and
